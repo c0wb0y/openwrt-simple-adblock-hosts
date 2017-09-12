@@ -1,0 +1,1 @@
+# openwrt-simple-adblock-hosts
